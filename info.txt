@@ -1,0 +1,34 @@
+
+I Used Fetch API Package for ReactNative RestApi Access ( Fetch Package is the common package for RestAPI Access in React Native)
+
+Package link: https://www.npmjs.com/package/node-fetch
+==========
+
+
+Rest Api link:  https://dummyjson.com/products
+==============
+
+Method : Get
+=======
+
+dependency:         install this package - ( npm i node-fetch )
+===========
+ "node-fetch": "^3.3.2",
+
+
+
+
+Fake Rest Api Websites:
+=============================
+
+1.	https://reqres.in
+2.	https://jsonplaceholder.typicode.com
+3.	https://dummyjson.com
+4.	https://dummy.restapiexample.com
+5.	https://mocki.io/fake-json-api
+6.	https://fakestoreapi.com
+7.	https://restful-api.dev
+
+
+I have used 3rd (3. https://dummyjson.com) web link Get Method in this project..
+
