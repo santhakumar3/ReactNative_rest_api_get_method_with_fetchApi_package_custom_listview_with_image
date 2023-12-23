@@ -1,0 +1,4 @@
+rootProject.name = 'rest_api_get_method_with_fetchApi_package_custom_listview_with_image'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
